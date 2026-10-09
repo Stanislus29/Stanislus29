@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**Stanislus29/Stanislus29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Somtochukwu Emeka-Onwunume
+### Computational Science · Machine Learning · Applied Mathematics
 
-Here are some ideas to get you started:
+I am a computational scientist interested in understanding complex systems through mathematical modelling, algorithms, and computation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work spans computational mathematics, electronics, embedded systems, and machine learning, with interests in biological and environmental applications of AI.
+
+## Research interests
+
+- Machine learning for biological discovery
+- Mathematical modelling and computational mathematics
+- Algorithm design and Boolean logic
+- Computational electronics and embedded systems
+
+
